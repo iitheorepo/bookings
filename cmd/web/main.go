@@ -12,7 +12,7 @@ import (
 	"github.com/iitheorepo/bookings/pkg/render"
 )
 
-const port = ":5000"
+const port = ":3000"
 var app config.AppConfig
 var session *scs.SessionManager
 
